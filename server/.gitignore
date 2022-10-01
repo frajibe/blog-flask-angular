@@ -43,6 +43,10 @@ testem.log
 .DS_Store
 Thumbs.db
 
+# Python
+__pycache__/*
+venv/*
+
 # static content
 templates/*
 static/*
